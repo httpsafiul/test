@@ -1,5 +1,0 @@
-{{#user}
-Name: MD Safiul Haque
-Skills: HTML, CSS, JS, React JS, Bootstrap, Redux, Material-UI, Node JS, Express JS, MongoDB, C, C++, Python
-Email: mdsafiulhaque4@gmail.com
-{{/user}}
